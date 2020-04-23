@@ -1,6 +1,6 @@
 {
   "name": "feature-policy-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Feature policy builder.",
   "main": "index.js",
   "scripts": {
