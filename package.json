@@ -1,0 +1,25 @@
+{
+  "name": "feature-policy-builder",
+  "version": "0.0.1",
+  "description": "Feature policy builder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-a-calles-mba/feature-policy-builder.git"
+  },
+  "keywords": [
+    "security",
+    "headers",
+    "feature policy",
+    "header"
+  ],
+  "author": "Miguel A. Calles MBA <miguelacallesmba@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel-a-calles-mba/feature-policy-builder/issues"
+  },
+  "homepage": "https://github.com/miguel-a-calles-mba/feature-policy-builder#readme"
+}
