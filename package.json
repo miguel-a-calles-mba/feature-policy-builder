@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/miguel-a-calles-mba/feature-policy-builder/issues"
   },
-  "homepage": "https://github.com/miguel-a-calles-mba/feature-policy-builder#readme"
+  "homepage": "https://github.com/miguel-a-calles-mba/feature-policy-builder#readme",
+  "dependencies": {
+    "decamelize": "^4.0.0"
+  }
 }
